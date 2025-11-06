@@ -48,6 +48,59 @@ Links will be updated as the series goes live!
 
 ---
 
+Perfect 👌 — here’s a **LinkedIn post template** your students can reuse daily to share progress, stay consistent, and tag you for visibility.
+
+It’s designed to:
+
+* Boost engagement & accountability 💪
+* Help the LinkedIn algorithm recognize the #DSAin90Days movement 🚀
+* Encourage others to join and tag you directly ✅
+
+---
+
+## 🧩 **LinkedIn Daily Progress Template (for Students)**
+
+> 📅 **Day [X] / 90 – DSA Patterns Challenge 2025**
+>
+> ✅ **Today’s Pattern:** [Pattern Name — e.g., Sliding Window / Two Pointers]
+> 🎥 **Video:** [YouTube Link]
+> 🗒️ **Notes:** [Notes Link or GitHub Link]
+>
+> 🧠 **What I learned today:**
+>
+> * [Write 1–2 key insights — e.g., how the sliding window helps optimize brute force approaches, etc.]
+> * [Any “aha moment” or tricky question solved today]
+>
+> 🔍 **Next Goal:** [Example: Practice all LeetCode questions from this pattern / Revise previous pattern tomorrow]
+>
+> 💬 **Reflection:**
+> [Share your experience — was it easy, tough, interesting? Encourage others to join in!]
+>
+> 🚀 **#DSAin90Days #DSAPatterns2025 #CTOBhaiya #FAANGPreparation #LeetCodePatterns #CodingInterviewPreparation #LearnCodeCrack #ThinkInPatterns**
+>
+> 🙌 Learning under the guidance of **[@Anuj Kumar](https://www.linkedin.com/in/anuj-kumar-9a188968/)** – Thank you for making DSA feel simple and structured!
+
+---
+
+### 🧠 Example Post
+
+> 📅 **Day 4 / 90 – DSA Patterns Challenge 2025**
+>
+> ✅ **Pattern:** Two Pointers
+> 🎥 **Video:** [https://youtu.be/...](#)
+> 🗒️ **Notes:** [https://github.com/...](#)
+>
+> 🧠 Learned how to solve *“Remove Nth Node from End of List”* and *“3Sum”* efficiently using the two-pointer pattern.
+> The biggest takeaway today — **simplify the logic by narrowing down the search space** instead of brute forcing!
+>
+> 🔍 **Next Goal:** Move to Fast & Slow Pointer pattern tomorrow.
+>
+> 🙌 Thanks **[@Anuj Kumar](https://www.linkedin.com/in/anuj-kumar-9a188968/)** for this amazing structure!
+>
+> 🚀 #DSAin90Days #DSAPatterns2025 #FAANGPreparation #CTOBhaiya #LeetCodePatterns #CodingInterviewPreparation #ZeroToHeroDSA
+
+---
+
 ## 🌟 Connect & Learn
 
 - 📺 [YouTube Channel](https://www.youtube.com/@CodingwithCTOBhaiya)  
